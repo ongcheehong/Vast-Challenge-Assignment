@@ -1,7 +1,6 @@
 ---
 title: "Vast Challenge Assignment"
-description: |
-  Welcome to the website. I hope you enjoy it!
+description: Welcome to Ong Chee Hong Vast Challenge Assignment
 site: distill::distill_website
 ---
 
